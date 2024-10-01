@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sparklebutt
 - 👀 I’m interested in in all kinds of things, lets not limit ourselves yet.
-- 🌱 I’m currently learning html, python lets see where that takes me.
+- 🌱 learning c and c++ in hive helsinki, dabbled in some python but for now c is my focus
 - 💞️ 
 - 📫 How to reach me TBA
 
